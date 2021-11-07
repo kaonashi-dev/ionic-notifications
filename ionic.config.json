@@ -1,0 +1,7 @@
+{
+  "name": "ionic-notifications",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
